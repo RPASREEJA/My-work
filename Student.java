@@ -18,7 +18,7 @@ public class Student {
 	}
 	
 	
-	public void attendLecture() {
+	public void attendLecture() {		//This method is called in a separate class 
 		System.out.println(name + " is attending " + course + " lecture.");
 	}
 	
